@@ -71,11 +71,8 @@ Basic list manipulation
 🎯 Use Cases
 
 Data rotation problems
-
 Coding interview practice
-
 Learning list operations
-
 Beginner Python exercises
 
 🚀 Future Improvements

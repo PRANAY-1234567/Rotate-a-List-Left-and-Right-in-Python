@@ -87,5 +87,4 @@ Use functions
 Optimize using slicing
 
 👨‍💻 Author
-
 Pranay Jadhao

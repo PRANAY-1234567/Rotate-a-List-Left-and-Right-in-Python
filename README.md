@@ -1,4 +1,4 @@
-🔄 Rotate a List Left and Right in Python
+ Rotate a List Left and Right in Python
 📌 Description
 
 This program demonstrates how to rotate a list to the left and to the right by one position using simple Python list operations.

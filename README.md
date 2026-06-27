@@ -1,4 +1,4 @@
- Rotate a List Left and Right in Python
+Rotate a List Left and Right in Python
  
 📌 Description
 

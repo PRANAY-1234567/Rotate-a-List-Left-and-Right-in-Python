@@ -52,9 +52,7 @@ print(numbers)
 🧠 Explanation
 
 pop() removes the last element
-
 insert(0, value) adds it at the beginning
-
 The list shifts right by one position
 
 🛠 Concepts Used

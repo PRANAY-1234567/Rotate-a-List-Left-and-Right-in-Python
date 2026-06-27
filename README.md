@@ -60,13 +60,9 @@ The list shifts right by one position
 🛠 Concepts Used
 
 Lists
-
 pop()
-
 append()
-
 insert()
-
 Basic list manipulation
 
 🎯 Use Cases

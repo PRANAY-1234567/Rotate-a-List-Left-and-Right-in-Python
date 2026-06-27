@@ -79,9 +79,7 @@ Beginner Python exercises
 🚀 Future Improvements
 
 Rotate by N positions
-
 Use functions
-
 Optimize using slicing
 
 👨‍💻 Author
